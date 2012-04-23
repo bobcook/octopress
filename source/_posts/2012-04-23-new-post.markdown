@@ -1,0 +1,8 @@
+---
+layout: post
+title: "New Post"
+date: 2012-04-23 17:08
+comments: true
+categories: 
+---
+Here is some text.
